@@ -1,4 +1,4 @@
-# SwiftDJ
+# Array
 
 중복 이 없는 배열에서 하나 이상의 임의의 요소를 가져올 수 있기를 원하면 GameplayKit에서 다룹니다.
 import GameplayKit
